@@ -22,7 +22,7 @@
 
 1. Склонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/WeatherAppOpenWeatherMap.git
+   git clone https://github.com/Pechinkin04/WeatherAppOpenWeatherMap.git
 
 
 ## 🛠 Используемые технологии
